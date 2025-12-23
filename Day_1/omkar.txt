@@ -1,0 +1,13 @@
+Linux: An Open-Source Operating System
+
+Linux is a popular and powerful operating system that is used all over the world. An operating system is software that manages a computer’s hardware and allows users to run applications. Linux was first created in 1991 by Linus Torvalds, a student who wanted a free and flexible alternative to other operating systems.
+
+One of the most important features of Linux is that it is open-source. This means its source code is freely available for anyone to view, modify, and improve. Because of this, thousands of developers contribute to Linux, making it secure, stable, and constantly improving. Unlike some operating systems, Linux is usually free to download and use.
+
+Linux comes in many versions called distributions (or distros). Popular distributions include Ubuntu, Fedora, Debian, and Linux Mint. Each distribution is designed for different users—some are beginner-friendly, while others are made for advanced users and servers.
+
+Another major advantage of Linux is its security. Linux is less vulnerable to viruses and malware compared to many other operating systems. It also allows users to control permissions carefully, which helps protect the system from unauthorized access. Because of this, Linux is widely used on servers, supercomputers, and cloud platforms.
+
+Linux is also known for its performance and efficiency. It can run smoothly on older or low-spec computers, making it a great choice for reviving old machines. Developers and programmers often prefer Linux because it supports many programming languages and tools.
+
+In conclusion, Linux is a reliable, secure, and flexible operating system. Its open-source nature encourages learning, creativity, and collaboration. Whether used on personal computers, servers, or smartphones, Linux plays an important role in modern technology.

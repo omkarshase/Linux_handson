@@ -1,0 +1,1 @@
+Linux is a powerful, open-source operating system (OS) kernel, the core that manages hardware, creating versatile OS families (distributions like Ubuntu, Mint, Fedora) used everywhere from smartphones (Android) and desktops to the world's fastest supercomputers, known for its stability, security, and customizability, making it dominant in servers and embedded system
