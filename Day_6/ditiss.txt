@@ -1,0 +1,12 @@
+
+Fundamental of Computer Networks - 120 Hours
+Programming Concepts - 90 Hours
+Concepts of Operating System and Administration - 210 Hours
+Network Defense and Countermeasures (NDC) - 90 Hours
+Compliance Audit - 30 Hours
+Security Concepts - 120 Hours
+Cyber Forensics - 60 Hours
+Public Key Infrastructure - 60 Hours
+IT Infrastructure Management & DevOps - 120 Hours
+Aptitude & Effective Communication - 120 Hours
+Project - 180 Hours
