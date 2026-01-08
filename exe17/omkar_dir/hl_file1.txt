@@ -1,0 +1,3 @@
+hii i am omkar hase
+this is new line i am adding to check 
+this is new line i adding in hardlink now which i check with main file
